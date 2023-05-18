@@ -1,2 +1,10 @@
+*.cpg
+*.prj
+*.dbf
+*.sbn
+*.sbx
+*.shx
+*.shp
+*.shp.xml
 *.csv
 TODO
